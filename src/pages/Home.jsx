@@ -158,7 +158,7 @@ export default function Home() {
       highlights: [
         { value: "20+", label: "Years Performing" },
         { value: "50+", label: "Songs Featured" },
-        { value: "100+", label: "Live Shows" },
+        { value: "50+", label: "Live Shows" },
       ],
     },
     contact: {
